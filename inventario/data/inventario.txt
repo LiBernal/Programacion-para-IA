@@ -1,0 +1,4 @@
+=== INVENTARIO DE PRODUCTOS ===
+
+Id: P200 | Nombre: Manzanaa | Categoría: Fruta | Precio: $3.00 | Peso: 2.0 kg | Stock: 3
+Id: P100 | Nombre: Pera | Categoría: Fruta | Precio: $2.00 | Peso: 4.0 kg | Stock: 1
