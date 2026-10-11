@@ -2,3 +2,4 @@
 - P02 - Estructuras de datos
 - P03 - Manipulación de Estructuras de Datos
 - P04 - Control de Flujo
+- Inventario - Control de Inventario
